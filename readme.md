@@ -13,3 +13,4 @@
 [coveralls-img]: https://img.shields.io/coveralls/blearjs/blear.classes.error/master.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/github/blearjs/blear.classes.error?branch=master
 
+

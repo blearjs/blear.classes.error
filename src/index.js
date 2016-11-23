@@ -21,7 +21,6 @@ var errorId = 0;
  * @returns {Error}
  */
 var BaseError = Class.ify(Error).extend({
-    className: 'BaseError',
     constructor: function (type, message) {
         var the = this;
         var args = access.args(arguments);

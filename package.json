@@ -1,6 +1,6 @@
 {
   "name": "blear.classes.error",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "自定义错误类",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",

@@ -44,7 +44,7 @@ var BaseError = Class.ify(Error).extend({
 
             // new Error(type, message);
             case 2:
-                meta.type = type;
+                meta.type = meta.code = type;
                 meta.message = message;
                 break;
         }
